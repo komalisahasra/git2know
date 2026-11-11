@@ -64,8 +64,8 @@ Thanks to these amazing people for their contributions!
 
 | Name | GitHub Profile | Contributions |
 |------|--------------|--------------|
-| **Ganesh M** | [@prodev717](https://github.com/prodev717) | Backend Development |
-| **Muhammad Sajid Y** | [@muhammadsajidy](https://github.com/muhammadsajidy) | Frontend Development |
+| **Komali priya** | [@prodev717](https://github.com/prodev717) | Backend Development |
+| **Manjiswari** | [@muhammadsajidy](https://github.com/muhammadsajidy) | Frontend Development |
 
 ## 📜 License
 
