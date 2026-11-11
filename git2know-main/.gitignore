@@ -1,0 +1,19 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node.js dependencies and build files
+node_modules/
+dist/
+
+# Editor and system files
+.vscode/
+.DS_Store
