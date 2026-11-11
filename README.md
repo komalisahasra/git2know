@@ -64,8 +64,8 @@ Thanks to these amazing people for their contributions!
 
 | Name | GitHub Profile | Contributions |
 |------|--------------|--------------|
-| **Komali priya** | [@prodev717](https://github.com/prodev717) | Backend Development |
-| **Manjiswari** | [@muhammadsajidy](https://github.com/muhammadsajidy) | Frontend Development |
+| **Komali Priya** | [@komalisahasra](https://github.com/komalisahasra) | Backend Development |
+| **Manjiswari** | [@manjiswari](https://github.com/manjiswari) | Frontend Development |
 
 ## 📜 License
 
